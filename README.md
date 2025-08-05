@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Simon Beijer</h1>
+<h1 align="center">Hi 👋, I'm Simon</h1>
 <h3 align="center">A passionate Front-end developer from Sweden</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simonbeijer&label=Profile%20views&color=0e75b6&style=flat" alt="simonbeijer" /> </p>
