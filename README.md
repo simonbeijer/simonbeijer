@@ -3,8 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simonbeijer&label=Profile%20views&color=0e75b6&style=flat" alt="simonbeijer" /> </p>
 
-- 🔭 I’m currently working on [Personal letter LLM](https://personal-letter.vercel.app/)
+- 🔭 Something i built [Personal letter LLM](https://personal-letter.vercel.app/)
 - 🔧 I’m also working on my AI jiu jitsu coach [Mat Mind](https://mat-mind.vercel.app/)
+- 👩‍🏫 I'm currently working on my AI lesson planner [Skooli](https://skooli-lilac.vercel.app/)
 
 - 🌱 I’m currently learning **Full-stack projects in Nexj.js**
 - 🪄 Also learning more about **AI and LLMs**
