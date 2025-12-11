@@ -1,14 +1,16 @@
 <h1 align="center">Hi 👋, I'm Simon</h1>
-<h3 align="center">A passionate Front-end developer from Sweden</h3>
+<h3 align="center">A passionate Developer from Sweden</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simonbeijer&label=Profile%20views&color=0e75b6&style=flat" alt="simonbeijer" /> </p>
 
-- 🔭 Something i built [Personal letter LLM](https://personal-letter.vercel.app/)
-- 🔧 I’m also working on my AI jiu jitsu coach [Mat Mind](https://mat-mind.vercel.app/)
-- 👩‍🏫 I'm currently working on my AI lesson planner [Skooli](https://skooli-lilac.vercel.app/)
+- 🌱 I’m currently building **Full-stack projects in Nexj.js with LLMs**
+  
+- 🥋 Something i built AI jiu jitsu coach [Mat Mind](https://mat-mind.vercel.app/)
+- 👩‍🏫 Something else i built my AI lesson planner [Skooli](https://skooli-lilac.vercel.app/)
+- 🎵 I'm currently working on my app Band Vault [BandVault](https://band-vault.vercel.app/)
 
-- 🌱 I’m currently learning **Full-stack projects in Nexj.js**
-- 🪄 Also learning more about **AI and LLMs**
+
+- 🪄 Also learning more about **Python AI and Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://simonbeijer.github.io/digital-resume-v2.0/](https://simonbeijer.github.io/digital-resume-v2.0/)
 
