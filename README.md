@@ -7,7 +7,7 @@
 - 🤖 Latest: **[dayboard](https://github.com/simonbeijer/dayboard)** — MCP tool that wires an LLM to a desktop todo app (Electron + React, native macOS)
 - 👩‍🏫 **[Skooli](https://skooli-lilac.vercel.app/)** — RAG-based AI lesson planner aligned to the Swedish curriculum
 - 🥋 **[Mat Mind](https://mat-mind.vercel.app/)** — AI Jiu-Jitsu coach using layered LLM personas
-- 🏋️ **[PhysioLink](https://github.com/simonbeijer/physiolink)** — Vue 3 + Laravel platform for trainers and physios to share workouts
+- 🏋️ **[PhysioLink](https://physio-link.vercel.app/share/demo)** — Vue 3 + Laravel platform for trainers and physios to share workouts
 
 - 🪄 Also learning more about **Python, AI and Machine Learning**
 - 👨‍💻 All projects: [simonbeijer.vercel.app](https://simonbeijer.vercel.app/)
