@@ -2,19 +2,17 @@
 <h3 align="center">A passionate Developer from Sweden</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simonbeijer&label=Profile%20views&color=0e75b6&style=flat" alt="simonbeijer" /> </p>
+- 🌱 Currently building **Full-stack projects in Next.js with LLMs and MCP tooling**
 
-- 🌱 I’m currently building **Full-stack projects in Nexj.js with LLMs**
-  
-- 🥋 Something i built AI jiu jitsu coach [Mat Mind](https://mat-mind.vercel.app/)
-- 👩‍🏫 Something else i built my AI lesson planner [Skooli](https://skooli-lilac.vercel.app/)
-- 🎵 I'm currently working on my app Band Vault [BandVault](https://band-vault.vercel.app/)
+- 🤖 Latest: **[dayboard](https://github.com/simonbeijer/dayboard)** — MCP tool that wires an LLM to a desktop todo app (Electron + React, native macOS)
+- 👩‍🏫 **[Skooli](https://skooli-lilac.vercel.app/)** — RAG-based AI lesson planner aligned to the Swedish curriculum
+- 🥋 **[Mat Mind](https://mat-mind.vercel.app/)** — AI Jiu-Jitsu coach using layered LLM personas
+- 🏋️ **[PhysioLink](https://github.com/simonbeijer/physiolink)** — Vue 3 + Laravel platform for trainers and physios to share workouts
 
+- 🪄 Also learning more about **Python, AI and Machine Learning**
+- 👨‍💻 All projects: [simonbeijer.vercel.app](https://simonbeijer.vercel.app/)
 
-- 🪄 Also learning more about **Python AI and Machine Learning**
-
-- 👨‍💻 All of my projects are available at [https://simonbeijer.github.io/digital-resume-v2.0/](https://simonbeijer.github.io/digital-resume-v2.0/)
-
-- 📫 How to reach me **beijer.simon@gmail.com**
+- 📫 Reach me: **beijer.simon@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
