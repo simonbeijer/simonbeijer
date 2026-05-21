@@ -16,4 +16,4 @@ Recently finished a vocational program in AI/ML (Python, scikit-learn, TensorFlo
 
 [Portfolio](https://simonbeijer.vercel.app/) · [LinkedIn](https://linkedin.com/in/simon-beijer-a27b37181) · beijer.simon@gmail.com
 
-![Inky with team](./inky-with-team.gif)
+<img src="./inky-with-team.gif" width="240" alt="Inky with team">
