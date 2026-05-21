@@ -1,6 +1,11 @@
 ## Simon Beijer
 
-Hi! Im [Simon](https://simonbeijer.vercel.app/) a Fullstack developer based in Gothenburg. Four years in fintech (Vue, PHP, Laravel, MySQL, Docker), now building heavily with LLMs, MCP tooling and agentic workflows. I use AI as an extension of how I work — shipping things a regular dev couldn't, alone.
+Hi! Im [Simon](https://simonbeijer.vercel.app/) - a Fullstack developer based in
+Gothenburg. Four years of professional experience across fintech (Vue, PHP, Laravel,
+MySQL, Docker) and modern web (React, Next.js, TypeScript). Now building heavily
+with LLMs, MCP tooling and agentic workflows. I use AI as an extension of how I
+work — shipping things a regular dev couldn't, alone.
+
 
 Recently finished a vocational program in AI/ML (Python, scikit-learn, TensorFlow, LangChain, AWS SageMaker).
 
